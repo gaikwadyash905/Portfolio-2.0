@@ -11,10 +11,7 @@ Visitors can switch between both modes using the animated portfolio-mode selecto
 
 ## Live Portfolio
 
-**Website:** Add your Vercel URL here
-
-```text
-https://ritesh-portfolio-847.netlify.app/
+**Website:** https://ritesh-portfolio-847.netlify.app/
 
 ## About Me
 
